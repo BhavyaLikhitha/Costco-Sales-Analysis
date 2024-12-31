@@ -11,6 +11,9 @@ Welcome to the **Power BI Sales Insights Dashboard**, a comprehensive solution f
 
 The dashboard leverages **Power BI** to provide a data-driven approach for analyzing and visualizing key metrics, ensuring businesses can make informed decisions. From data preprocessing to creating dynamic visualizations, this project demonstrates a strong grasp of Power BI capabilities, including **Power Query**, **data modeling**, and **DAX formulas**.
 
+👉 **[Explore the Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiZjQ4MTU3NDEtZmRhOS00MGUwLWI0OWUtYzNkNWY1MTU3YWEzIiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9
+)**
+
 ## 🚀 **Why This Dashboard Stands Out**
 
 - **Advanced Power Query Skills**:
