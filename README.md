@@ -25,8 +25,19 @@ The dashboard leverages **Power BI** to provide a data-driven approach for analy
   - Advanced insights with year-over-year comparisons and trend tracking.
 
 ---
+
+
+
 👉 **[Explore the Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiZjQ4MTU3NDEtZmRhOS00MGUwLWI0OWUtYzNkNWY1MTU3YWEzIiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9
 )**
+
+---
+
+<div style="text-align: center;">
+    <img src="Costco.jpg" alt="alt text">
+</div>
+
+---
 
 ## 🎯 **Business Problems Solved**
 
