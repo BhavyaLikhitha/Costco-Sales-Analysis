@@ -1,8 +1,8 @@
 # 🚀 **Power BI Sales Insights Dashboard: 5-Year Detailed Analysis of Costco Global Sales** 📊
 
-<div style="text-align: center;">
+<p align="center">
     <img src="Costco logo.png" alt="Costco Logo" width="400" height="130">
-</div>
+</p>
 
 ## 🚀 Project Overview
 
@@ -10,9 +10,9 @@ This project performs a full **Exploratory Data Analysis (EDA)** and solves **cr
 
 ---
 
-<div style="text-align: center;">
+<p align="center">
     <img src="Costco.jpg" alt="Costco Sales Dashboard">
-</div>
+</p>
 
 👉 **[Explore the Live Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiZjQ4MTU3NDEtZmRhOS00MGUwLWI0OWUtYzNkNWY1MTU3YWEzIiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9)**
 
